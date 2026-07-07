@@ -1,0 +1,13 @@
+Información obtenida del sistema:
+
+- Comando uname -a: muestra información general del kernel y del sistema operativo, como el nombre del equipo, la versión del kernel, la arquitectura y la distribución. En este entorno se obtuvo:
+  Linux codespaces-613226 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+- Comando whoami: muestra el nombre del usuario que está ejecutando la sesión actual. En este entorno el resultado fue:
+  codespace
+
+Por qué es útil conocer esta información al administrar un servidor:
+- Permite verificar la identidad del usuario activo.
+- Ayuda a confirmar la versión del sistema operativo y del kernel.
+- Facilita la detección de problemas de compatibilidad y seguridad.
+- Es importante para tomar decisiones de mantenimiento y soporte técnico.
